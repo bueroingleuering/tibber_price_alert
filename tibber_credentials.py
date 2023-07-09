@@ -1,1 +1,2 @@
-token = "tibber-token"
+# demo token
+token = "5K4MVS-OjfWhK_4yrjOlFe1F6kJXPVf7eQYggo8ebAE"
