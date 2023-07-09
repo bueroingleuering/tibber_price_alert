@@ -1,1 +1,1 @@
-token = "zYgCk9FJDjfT_yBT66SnkYNevdc0_qYPqoqfNLHIHjc"
+token = "tibber-token"
